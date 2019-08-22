@@ -1,0 +1,20 @@
+PODS:
+  - MPQRCoreSDK (2.0.7)
+  - ObjectMapper (3.4.1)
+
+DEPENDENCIES:
+  - MPQRCoreSDK
+  - ObjectMapper (= 3.4.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MPQRCoreSDK
+    - ObjectMapper
+
+SPEC CHECKSUMS:
+  MPQRCoreSDK: ea95312df244a90b5041cc8bafe089d07cac2bd2
+  ObjectMapper: 5311bd50ca732930959e7ca1a2de43ab823a5ced
+
+PODFILE CHECKSUM: 05f928e9721e71109a8d36cbce26ffe4d3b0923c
+
+COCOAPODS: 1.5.3
